@@ -31,6 +31,6 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:id="@+id/btn_activity_dial"
-        android:text="Ke Activity Dial"
+        android:text="Ke Activity SMS"
         android:layout_marginBottom="8dp"/>
 </LinearLayout>
